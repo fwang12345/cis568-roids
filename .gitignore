@@ -6,4 +6,5 @@ Temp/
 *.csproj
 *.unityproj
 *.sln
+*.zip
 #Unity gitignore end
